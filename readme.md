@@ -1,7 +1,7 @@
 # CV CÁ NHÂN
 
   **Tên:** Lý Minh Nhựt
-- **Ngày Sinh:** 28/11/2002
+- **Ngày Sinh:** 27/11/2002
 - **Địa Chỉ:** 175/82/7/11/ đường 2, tăng nhơn phú B, Thủ Đức , Hồ Chí Minh City
 - **Email:** nhutly19@gmail.com
 ### 20DTHA5
@@ -12,7 +12,7 @@
 
 ### Giới Thiệu
 
-Xin chào! Tôi là Lý Minh Nhựt, một sinh viên ngành Công nghệ thông tin tại Đại học ABC. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế.
+Xin chào! Tôi là Lý Minh Nhựt, một sinh viên ngành Công nghệ thông tin tại Đại học ABC. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế cua toi.
 
 ### Kỹ Năng
 
