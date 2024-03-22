@@ -1,7 +1,7 @@
 # CV CÁ NHÂN
 
   **Tên:** Lý Minh Nhựt
-- **Ngày Sinh:** 27/11/2002
+- **Ngày Sinh:** 29/11/2002
 - **Địa Chỉ:** 175/82/7/11/ đường 2, tăng nhơn phú B, Thủ Đức , Hồ Chí Minh City
 - **Email:** nhutly19@gmail.com
 ### 20DTHA5
