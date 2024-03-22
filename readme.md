@@ -1,14 +1,18 @@
 # CV CÁ NHÂN
 
-## LY MINH NHUT - 2011060763
-
+  **Tên:** Lý Minh Nhựt
+- **Ngày Sinh:** 28/11/2002
+- **Địa Chỉ:** 175/82/7/11/ đường 2, tăng nhơn phú B, Thủ Đức , Hồ Chí Minh City
+- **Email:** nhutly19@gmail.com
 ### 20DTHA5
 
-![Ảnh cá nhân](https://seotrends.com.vn/wp-content/uploads/2023/05/hinh-anh-nobita-cuoi-mim-1024x724.jpg)
+![Ảnh cá nhân](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-1/399505342_3584135855235746_983175597750843886_n.jpg?stp=cp6_dst-jpg_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=rLbUSXp9IA8AX_6rI-x&_nc_ht=scontent.fsgn1-1.fna&oh=00_AfBPwzh05Gx3zyXOI2EArXN71nmsd0ZFpG4MlQwe0q21GQ&oe=6602D56D)
+
+
 
 ### Giới Thiệu
 
-Xin chào! Tôi là LY MINH NHUT, một sinh viên ngành Công nghệ thông tin tại Đại học ABC. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế.
+Xin chào! Tôi là Lý Minh Nhựt, một sinh viên ngành Công nghệ thông tin tại Đại học ABC. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế.
 
 ### Kỹ Năng
 
@@ -34,5 +38,6 @@ Xin chào! Tôi là LY MINH NHUT, một sinh viên ngành Công nghệ thông ti
 
 ### Liên Hệ
 
-- Email: your_email@example.com
-- GitHub: [NHUTLY19@GMAIL.COM](https://github.com/minhnhut27)
+- Email: nhutly19@gmail.com
+- Sdt : 0919938719
+- Địa chỉ : Hồ Chí Minh 
