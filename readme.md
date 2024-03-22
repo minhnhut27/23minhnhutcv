@@ -1,6 +1,6 @@
 # CV CÁ NHÂN
 
-## Phạm Bá Trường - 2011061222
+## LY MINH NHUT - 2011060763
 
 ### 20DTHA5
 
@@ -8,7 +8,7 @@
 
 ### Giới Thiệu
 
-Xin chào! Tôi là Phạm Bá Trường, một sinh viên ngành Công nghệ thông tin tại Đại học ABC. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế.
+Xin chào! Tôi là LY MINH NHUT, một sinh viên ngành Công nghệ thông tin tại Đại học ABC. Tôi đang theo đuổi sự nghiên cứu và phát triển trong lĩnh vực phần mềm và công nghệ. Tôi đam mê học hỏi và luôn tìm kiếm cơ hội để áp dụng kiến thức của mình vào thực tế.
 
 ### Kỹ Năng
 
@@ -35,5 +35,4 @@ Xin chào! Tôi là Phạm Bá Trường, một sinh viên ngành Công nghệ t
 ### Liên Hệ
 
 - Email: your_email@example.com
-- LinkedIn: [Phạm Bá Trường](link_to_linkedin_profile)
-- GitHub: [pham-ba-truong](link_to_github_profile)
+- GitHub: [NHUTLY19@GMAIL.COM](https://github.com/minhnhut27)
